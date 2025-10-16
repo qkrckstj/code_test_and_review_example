@@ -16,3 +16,5 @@
 
 - Added modulo function in `functions.py`
 - Added multiply function in `functions.py`
+
+- Added share function in `functions.py`
